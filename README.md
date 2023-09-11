@@ -7,7 +7,7 @@ Neste trabalho, descreve-se o uso do conjunto de dados CerraData para tarefa de 
 O Dataset está disponível neste endereço: [CerraData v3.1 for Semantic Segmentation.](https://www.kaggle.com/datasets/cerranet/cerradatav31-for-semantic-segmentation). 
 
 ## Código-fonte
-O código fonte de treinamento dos modelos pode ser acessado no diretório models.
+O código fonte de treinamento dos modelos pode ser acessado nos respectivos diretórios dos modelos Random Forest e DeepLabv3+.
 
 ## Predições dos modelos
 Acesse as predições realizadas por cada modelo neste [diretório](https://drive.google.com/drive/folders/170_UZTchKu_tLVpgzhC9nfbMIITzuKSK?usp=sharing).
