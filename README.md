@@ -1,4 +1,4 @@
-# CAP-ACRP
+# DeepLabv3+ vs Random Forest
 
 ## Resumo
 Neste trabalho, descreve-se o uso do conjunto de dados CerraData para tarefa de segmentação semântica de imagens de satélite sobre bioma Cerrado. Um modelo de aprendizado profundo chamado DeepLabv3+ é comparado com o algoritmo Random Forest em um experimento. O Random Forest supera o DeepLabv3+ em ganho de desempenho de 15,25%, mas o DeepLabv3+ produz segmentações mais suaves. Ambos os modelos enfrentam desafios na classificação de certas classes de uso da terra, sugerindo a necessidade de explorar técnicas de aprendizado auto-supervisionado devido à falta de dados rotulados. Leia o artigo completo acessando o diretório Documentação.
